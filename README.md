@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdolancode&theme=tokyonight)](https://github.com/mdolancode/github-readme-stats)
 
+<!--
 [![Matthew's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdolancode)](https://github.com/mdolancode/github-readme-stats)
 
-
-
-
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mdolancode&repo=github-readme-stats)](https://github.com/mdolancode/github-readme-stats)
 -->
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdolancode&repo=github-readme-stats)](https://github.com/mdolancode/github-readme-stats)
+
