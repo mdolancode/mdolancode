@@ -3,8 +3,6 @@
 
 <img src="/images/northshore.jpeg" alt="Picture of the Northshore Mountains, North Vancouver, Canada" width="100%"/>
 
-<br>
-
 I am an Indie iOS Developer with two years of experience and from Vancouver, Canada. I have previously worked in the EV industry, and my interests are in crypto, creating electronic music, and learning more about software development. Also, I am a former world-class competitive bagpiper and have performed in Scotland, Ireland, Belgium, France, the United States of America, Japan and my home country of Canada.
 
 <br>
