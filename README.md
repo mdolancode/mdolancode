@@ -1,8 +1,9 @@
-<img src="/images/northshore.jpeg" alt="Picture of the Northshore Mountains, North Vancouver, Canada" width="100%"/>
-
-
-# Hi there, I'm Matthew (aka mdolancode) 👋
+### Hi there, I'm Matthew (aka mdolancode) 👋
 ## I'm a Husband, Dad, iOS Developer, Bagpiper, Electronic Musician.
+
+<br>
+
+<img src="/images/northshore.jpeg" alt="Picture of the Northshore Mountains, North Vancouver, Canada" width="100%"/>
 
 <br>
 
