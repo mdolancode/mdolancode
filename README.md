@@ -17,7 +17,7 @@ I am an Indie iOS Developer with two years of experience and from Vancouver, Can
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on an iOS app using UIKit and a companion watchOS app 
+- 🔭 I’m currently working on an iOS app using UIKit and a companion watchOS app that displays quotes from animes
 - 🌱 I’m currently learning SwiftUI.
 - 👯 I’m looking to collaborate on a project with someone more senior than I am.
 <!-- - 🤔 I’m looking for help with  -->
