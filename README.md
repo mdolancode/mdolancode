@@ -1,4 +1,4 @@
-### Hi there, I'm Matthew (aka mdolancode) 👋
+### Hello, world, I'm Matthew (aka mdolancode) 👋
 ## I'm a Husband, Dad, iOS Developer, Bagpiper, Electronic Musician.
 
 <br>
@@ -7,7 +7,7 @@
 
 <br>
 
-Hello, World! My name is Matthew, and I am an Indie iOS Developer with two years of experience and from Vancouver, Canada. I have previously worked in the EV industry, and my interests are in the crypto space, creating electronic music, and learning more about software development. Also, I am a former world-class competitive bagpiper and have performed in Scotland, Ireland, Belgium, France, the United States of America, Japan and my home country of Canada.
+I am an Indie iOS Developer with two years of experience and from Vancouver, Canada. I have previously worked in the EV industry, and my interests are in crypto, creating electronic music, and learning more about software development. Also, I am a former world-class competitive bagpiper and have performed in Scotland, Ireland, Belgium, France, the United States of America, Japan and my home country of Canada.
 
 <br>
 
@@ -17,16 +17,16 @@ Hello, World! My name is Matthew, and I am an Indie iOS Developer with two years
 Here are some ideas to get you started:
 -->
 
-<!-- - 🔭 I’m currently working on an iOS app using UIKit and a companion watchOS app 
+- 🔭 I’m currently working on an iOS app using UIKit and a companion watchOS app 
 - 🌱 I’m currently learning SwiftUI.
-- 👯 I’m looking to collaborate on a project with someone more senior than I.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... -->
+- 👯 I’m looking to collaborate on a project with someone more senior than I am.
+<!-- - 🤔 I’m looking for help with  -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: Please reach out by email or Twitter.
 <!--
 - 😄 Pronouns: ...
 -->
-<!-- - ⚡ Fun fact: I use to play bagpipes at Tokyo Disneyland and was know as the Fantasyland Bagpiper! -->
+- ⚡ Fun fact: I use to play bagpipes at Tokyo Disneyland and was know as the Fantasyland Bagpiper!
 
 
 <br>
