@@ -11,23 +11,13 @@ I am an Indie iOS Developer with two years of experience and from Vancouver, Can
 
 <br>
 
-<!--
-**mdolancode/mdolancode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently working on an iOS app using UIKit and a companion watchOS app that displays quotes from animes
+- 🔭 I’m currently working on an iOS app using UIKit and a companion watchOS app that displays quotes from animes.
 - 🌱 I’m currently learning SwiftUI.
 - 👯 I’m looking to collaborate on a project with someone more senior than I am.
-<!-- - 🤔 I’m looking for help with  -->
-<!-- - 💬 Ask me about ... -->
+- 🤔 I’m looking for mentorship.
+- 💬 Ask me about Japan.
 - 📫 How to reach me: Please reach out by email or Twitter.
-<!--
-- 😄 Pronouns: ...
--->
-- ⚡ Fun fact: I use to play bagpipes at Tokyo Disneyland and was know as the Fantasyland Bagpiper!
-
+- ⚡ Fun fact: I use to play bagpipes at Tokyo Disneyland and was know as the Fantasyland Bagpiper! 
 
 <br>
 
