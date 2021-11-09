@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdolancode&repo=github-readme-stats)](https://github.com/mdolancode/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mdolancode&repo=github-readme-stats)](https://github.com/mdolancode/github-readme-stats)
