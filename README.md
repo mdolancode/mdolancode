@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdolancode&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mdolancode/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdolancode)](https://github.com/mdolancode/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdolancode&theme=tokyonight)](https://github.com/mdolancode/github-readme-stats)
 
 
 
