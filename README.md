@@ -7,7 +7,7 @@
 
 <br>
 
-I am an Indie iOS Developer with two years of experience and from Vancouver, Canada. I have previously worked in the EV industry, and my interests are in crypto, creating electronic music, and learning more about software development. Also, I am a former world-class competitive bagpiper and have performed in Scotland, Ireland, Belgium, France, the United States of America, Japan and my home country of Canada.
+I have two years of iOS experience with Swift and I'm from Vancouver, Canada. Previously I worked in the EV industry, and my interests are in crypto, creating electronic music, and learning more about software development. Also, I am a former world-class competitive bagpiper and have performed in Scotland, Ireland, Belgium, France, the United States of America, Japan and my home country of Canada.
 
 <br>
 
