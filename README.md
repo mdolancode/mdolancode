@@ -17,7 +17,7 @@ I have two years of iOS experience with Swift and I'm from Vancouver, Canada. Pr
 - 🤔 I’m looking for my next role.
 - 💬 Ask me about Japan.
 - 📫 How to reach me: Please reach out by email or Twitter.
-- ⚡ Fun fact: I use to play bagpipes at Tokyo Disneyland and was know as the Fantasyland Bagpiper! 
+- ⚡ Fun fact: I used to play bagpipes at Tokyo Disneyland and was know as the Fantasyland Bagpiper! 
 
 <br>
 
