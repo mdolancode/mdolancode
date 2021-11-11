@@ -27,6 +27,15 @@ I have two years of iOS experience with Swift and I'm from Vancouver, Canada. Pr
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdolancode&theme=tokyonight)](https://github.com/mdolancode/github-readme-stats)
 
+
+<a href="https://github.com/mdolancode/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdolancode&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/mdolancode/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdolancode&theme=tokyonight" />
+</a>
+
+
 <!--
 [![Matthew's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdolancode)](https://github.com/mdolancode/github-readme-stats)
 
