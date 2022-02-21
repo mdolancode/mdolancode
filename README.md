@@ -11,7 +11,7 @@ I have two years of iOS experience with Swift and I'm from Vancouver, Canada. Pr
 
 <br>
 
-- 🔭 I’m currently working on an iOS app using UIKit and a companion watchOS app that displays quotes from animes.
+- 🔭 I’m currently working on an iOS app that tracks crypto and has an Ethereum wallet.
 - 🌱 I’m currently learning Solidity & Web3.py.
 - 👯 I’m looking to collaborate on a project with someone more senior than I am.
 - 🤔 I’m looking for my next role.
