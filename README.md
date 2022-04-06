@@ -11,7 +11,7 @@ I have two years of iOS experience with Swift and I'm from Vancouver, Canada. Pr
 
 <br>
 
-- 🔭 I’m currently working on updating my Anime Quotes! app.
+- 🔭 I’m currently working on updating my [Anime Quotes!] (https://apps.apple.com/us/app/anime-quotes/id1595682340) app.
 - 🌱 I’m currently learning .
 - 👯 I’m looking to collaborate on a project with someone more senior than I am.
 - 🤔 I’m looking for friends who are iOS Developers.
