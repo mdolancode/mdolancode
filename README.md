@@ -11,10 +11,10 @@ I have two years of iOS experience with Swift and I'm from Vancouver, Canada. Pr
 
 <br>
 
-- 🔭 I’m currently working on an iOS app that tracks crypto and has an Ethereum wallet.
-- 🌱 I’m currently learning Solidity & Web3.py.
+- 🔭 I’m currently working on updating my Anime Quotes! app.
+- 🌱 I’m currently learning .
 - 👯 I’m looking to collaborate on a project with someone more senior than I am.
-- 🤔 I’m looking for my next role.
+- 🤔 I’m looking for friends who are iOS Developers.
 - 💬 Ask me about Japan.
 - 📫 How to reach me: Please reach out by email or Twitter.
 - ⚡ Fun fact: I used to play bagpipes at Tokyo Disneyland and was know as the Fantasyland Bagpiper! 
