@@ -1,5 +1,5 @@
 ### Hello, world, I'm Matthew (aka mdolancode) 👋
-## I'm a Husband, Dad, iOS Developer, Bagpiper, Electronic Musician.
+## I'm an iOS Developer who is also a Husband, Dad, DJ, electronic music producer, and Bagpiper.
 
 <br>
 
@@ -7,12 +7,12 @@
 
 <br>
 
-I have two years of iOS experience with Swift and I'm from Vancouver, Canada. Previously I worked in the EV industry, and my interests are in crypto, creating electronic music, and learning more about software development. Also, I am a former world-class competitive bagpiper and have performed in Scotland, Ireland, Belgium, France, the United States of America, Japan and my home country of Canada.
+I am an iOS Dev from Vancouver, Canada with approximately three years of experience and work in the gaming industry. Previously I worked at a start-up in the EV industry, and my interests are learning about iOS Development, crypto, Djing, creating electronic music, and bagpiping. As a a former world-class competitive bagpiper, I've travelled and performed in Scotland, Ireland, Belgium, France, the United States of America, Japan and my home country of Canada.
 
 <br>
 
 - 🔭 I’m currently working on updating my app [Anime Quotes!](https://apps.apple.com/us/app/anime-quotes/id1595682340).
-- 🌱 I’m currently learning about add more accessibility features to my app.
+- 🌱 I’m currently learning SwiftUI through Hacking with Swift's 100DaysOfSwiftUI.
 - 👯 I’m looking to collaborate on a project with someone more senior than I am.
 - 🤔 I’m looking for friends who are iOS Developers.
 - 💬 Ask me about Japan.
