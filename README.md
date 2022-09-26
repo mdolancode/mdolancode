@@ -1,6 +1,6 @@
 ### Hello, world, I'm Matthew (aka mdolancode) 👋
 ## I'm an iOS Developer...
-who is also a Husband, Dad, DJ, electronic music producer, and bagpiper. 🙂
+Who is also a Husband, Dad, DJ, electronic music producer, and bagpiper. 🙂
 
 <br>
 
