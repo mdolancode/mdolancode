@@ -18,7 +18,7 @@ I am an iOS Dev from Vancouver, Canada with approximately three years of experie
 - 🤔 I’m looking for friends who are iOS Developers.
 - 💬 Ask me about Japan.
 - 📫 How to reach me: Please reach out by email or Twitter.
-- ⚡ Fun fact: I used to play bagpipes at Tokyo Disneyland and was know as the Fantasyland Bagpiper! 
+- ⚡ Fun fact: I used to play bagpipes at Tokyo Disneyland and was known as the Fantasyland Bagpiper! 
 
 <br>
 
